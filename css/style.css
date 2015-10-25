@@ -1,0 +1,40 @@
+.profilePic{
+	height: auto;
+	width: auto;
+	display: inline-block;
+}
+
+paper-toolbar{
+	background-color: #26c6da
+}
+
+#cards{
+	max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+}
+
+.avatar{
+	height: 64px;
+	width : 64px;
+	background-color: pink;
+	display: inline-block;
+	border-radius: 50%;
+}
+
+.heading .title {
+	position: absolute;
+	top: 30px;
+	left: 100px;
+}
+
+paper-card {
+      width: 100%;
+			margin-top: 100px;
+    }
+
+.myName {
+
+	padding-left: 180px;
+	padding-top: 145px;
+}
